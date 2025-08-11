@@ -6,6 +6,4 @@
 
 📚 I continuously improve myself through research and self-learning to stay up-to-date with new techniques.
 
-📊 I plan to work on data science projects in the future as well.
-
 🌟 I share my projects as open-source on GitHub, combining learning with contributing to the software development community.
